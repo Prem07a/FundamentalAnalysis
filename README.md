@@ -1,4 +1,5 @@
 # **Financial Screener - A Streamlit Application**
+![Performance Evaluation](images/logo.png)
 
 ## **Overview**
 The **Financial Screener** is a Streamlit application that evaluates stocks based on fundamental analysis principles taught in the [Zerodha Varsity: Fundamental Analysis Module](https://zerodha.com/varsity/module/fundamental-analysis). It simplifies stock screening by automating the analysis of key financial metrics, helping users identify stocks with strong fundamentals.
