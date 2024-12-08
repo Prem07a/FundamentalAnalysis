@@ -55,8 +55,8 @@ Here’s how the **Features** section can be updated with image references for e
 ## **Usage Instructions**
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/your-repo/financial-screener.git
-   cd financial-screener
+   git clone https://github.com/Prem07a/FundamentalAnalysis.git
+   cd FundamentalAnalysis
    pip install -r requirements.txt
    ```
 2. Run the application:
