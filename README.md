@@ -17,8 +17,6 @@ The Financial Screener is an educational tool that uses publicly available data 
 
 Here’s how the **Features** section can be updated with image references for each feature:
 
----
-
 ## **Features**
 
 - **Stock Explorer**  
